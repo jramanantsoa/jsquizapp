@@ -1,11 +1,11 @@
 
 var questions = [{
-    question: "What is the baby of a Moth known as?",
-    choices: ["baby", "infant", "kit", "larva"],
+    question: "Which city was BLACKPINK member Ros\u00e9  born in?",
+    choices: ["Melbourne", "Seoul", "Auckland", "New York"],
     correctAnswer: 3
 }, {
-    question: "What is the adult of a kid called",
-    choices: ["calf", "doe", "goat", "chick"],
+    question: "Finish The Lyric: \"...Look up in the sky. It's a bird, it's a _____.\"",
+    choices: ["monster", "plane", "goat", "eagle"],
     correctAnswer: 2
 }, {
     question: "What is the young of Bufallo called?",
